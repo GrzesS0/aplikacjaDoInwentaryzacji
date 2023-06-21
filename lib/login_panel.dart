@@ -120,7 +120,7 @@ class _LoginPanel extends State<LoginPanel> {
         margin: const EdgeInsets.only(top: 10),
         decoration: const BoxDecoration(
             image: DecorationImage(
-                scale: 2.6,
+                scale: 7.5,
                 image: AssetImage("assets/logo.png"),
                 //fit: BoxFit.scaleDown,
                 alignment: AlignmentDirectional.topCenter)),
